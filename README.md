@@ -1,2 +1,2 @@
-# Code
-Student detail
+
+code of student detail
